@@ -1,6 +1,6 @@
 # Slider Component
 
-Click [here](https://ioannis-sporidis.github.io/rc-pagination/) to check out the component.
+Click [here](https://ioannis-sporidis.github.io/rc-slider/) to check out the component.
 
 ## Dependencies
 
