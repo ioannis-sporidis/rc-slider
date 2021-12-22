@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/slider/static/css/main.da42baa3.chunk.css",
-    "main.js": "/slider/static/js/main.34a0516b.chunk.js",
-    "main.js.map": "/slider/static/js/main.34a0516b.chunk.js.map",
-    "runtime-main.js": "/slider/static/js/runtime-main.22820b95.js",
-    "runtime-main.js.map": "/slider/static/js/runtime-main.22820b95.js.map",
-    "static/js/2.ce363209.chunk.js": "/slider/static/js/2.ce363209.chunk.js",
-    "static/js/2.ce363209.chunk.js.map": "/slider/static/js/2.ce363209.chunk.js.map",
-    "index.html": "/slider/index.html",
-    "static/css/main.da42baa3.chunk.css.map": "/slider/static/css/main.da42baa3.chunk.css.map",
-    "static/js/2.ce363209.chunk.js.LICENSE.txt": "/slider/static/js/2.ce363209.chunk.js.LICENSE.txt"
+    "main.css": "/rc-slider/static/css/main.da42baa3.chunk.css",
+    "main.js": "/rc-slider/static/js/main.7501a158.chunk.js",
+    "main.js.map": "/rc-slider/static/js/main.7501a158.chunk.js.map",
+    "runtime-main.js": "/rc-slider/static/js/runtime-main.abe1d8ed.js",
+    "runtime-main.js.map": "/rc-slider/static/js/runtime-main.abe1d8ed.js.map",
+    "static/js/2.ce363209.chunk.js": "/rc-slider/static/js/2.ce363209.chunk.js",
+    "static/js/2.ce363209.chunk.js.map": "/rc-slider/static/js/2.ce363209.chunk.js.map",
+    "index.html": "/rc-slider/index.html",
+    "static/css/main.da42baa3.chunk.css.map": "/rc-slider/static/css/main.da42baa3.chunk.css.map",
+    "static/js/2.ce363209.chunk.js.LICENSE.txt": "/rc-slider/static/js/2.ce363209.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22820b95.js",
+    "static/js/runtime-main.abe1d8ed.js",
     "static/js/2.ce363209.chunk.js",
     "static/css/main.da42baa3.chunk.css",
-    "static/js/main.34a0516b.chunk.js"
+    "static/js/main.7501a158.chunk.js"
   ]
 }
