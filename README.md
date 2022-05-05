@@ -1,6 +1,6 @@
 # Slider Component
 
-Check out the component [here](https://ioannis-sporidis.github.io/rc-slider/)
+Check out the component [here](https://the-fetaverse.github.io/rc-slider/)
 
 ## Dependencies
 
